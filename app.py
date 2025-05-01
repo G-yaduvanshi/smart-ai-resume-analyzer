@@ -1014,10 +1014,10 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://res-console.cloudinary.com/dabywmj68/thumbnails/v1/image/upload/v1746085855/V2hhdHNBcHBfSW1hZ2VfMjAyNS0wNC0yOF9hdF84LjIwLjIzX1BNX3RycDJnZg==/drilldown'}" 
-                     alt="Het Patel" 
+                <img src="{image_base64 if image_base64 else 'https://res-console.cloudinary.com/dabywmj68/media_explorer_thumbnails/fad277b0a8439a019188824db9fa3354/detailed'}" 
+                     alt="Govind yaduvanshi" 
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://res-console.cloudinary.com/dabywmj68/thumbnails/v1/image/upload/v1746085855/V2hhdHNBcHBfSW1hZ2VfMjAyNS0wNC0yOF9hdF84LjIwLjIzX1BNX3RycDJnZg==/drilldown';">
+                     onerror="this.onerror=null; this.src='https://res-console.cloudinary.com/dabywmj68/media_explorer_thumbnails/fad277b0a8439a019188824db9fa3354/detailed';">
                 <h2 class="profile-name">Govind yaduvanshi</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
