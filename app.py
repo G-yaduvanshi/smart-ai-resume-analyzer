@@ -1014,11 +1014,11 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://media.licdn.com/dms/image/v2/D5603AQEJmLbEXI8khA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690549274283?e=1751500800&v=beta&t=6hvElK0NQFeu7ReG9Qo120Itdocu_Ja73umsjSycmO4'}" 
+                <img src="{image_base64 if image_base64 else 'https://res-console.cloudinary.com/dabywmj68/thumbnails/v1/image/upload/v1746085855/V2hhdHNBcHBfSW1hZ2VfMjAyNS0wNC0yOF9hdF84LjIwLjIzX1BNX3RycDJnZg==/drilldown'}" 
                      alt="Het Patel" 
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://media.licdn.com/dms/image/v2/D5603AQEJmLbEXI8khA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1690549274283?e=1751500800&v=beta&t=6hvElK0NQFeu7ReG9Qo120Itdocu_Ja73umsjSycmO4';">
-                <h2 class="profile-name">Shiv Govind</h2>
+                     onerror="this.onerror=null; this.src='https://res-console.cloudinary.com/dabywmj68/thumbnails/v1/image/upload/v1746085855/V2hhdHNBcHBfSW1hZ2VfMjAyNS0wNC0yOF9hdF84LjIwLjIzX1BNX3RycDJnZg==/drilldown';">
+                <h2 class="profile-name">Govind yaduvanshi</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
                     <a href="https://github.com/G-yaduvanshi" class="social-link" target="_blank">
